@@ -1,11 +1,36 @@
-## Welcome to GitHub Pages
+## Grad Student at Stevens Institute of Technology | Software Dev. | Data Engg. | Seeking Full-time roles
+
+### Summary
+
+Graduate Student at Stevens Institute of technology.
+Pursuing Master of Science in Computer Science.
+I'm interested in Enterprise software development and data engineering. I'm focused on cloud and big data technologies and believe in adapting to new and better technologies; as you can see in my resume that I like doing extra curricular online courses.
+
+Throughout my undergraduate studies, I've developed softwares in Java. Since then, in my fall semester at Stevens I've learnt various enterprise software architectures like:
+
+Domain Driven designs
+Object relational mapping (ORM)
+Service Oriented Architecture- SOAP based web services
+Resource Oriented Architecture- RESTful web services
+Middleware Oriented Architecture
+Event Driven Architecture
+
+I've designed and developed web applications in each of the above paradigms in Java EE and deployed it on an Amazon EC2 instance.
+
+Currently, I've been learning functional programming paradigm with scala, along with Spark and Hadoop frameworks.
+
+I've worked as the vice president of a non profit organization - The Rotaract Club of Bombay Uptown in the year 2014-15 and have been an active member of the Rotaract for three years.
 
 You can use the [editor on GitHub](https://github.com/ishan1611/ishan1611.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Work Experience
 
+### Software Engineer (Part time) - Ask My Uncle Sam (AMUS Inc.)
+- Implemented a Deep Learning LSTM model using TensorFlow to build a chatbot dialog platform
+- Used different NLP similarity score functions (including word2vec, ngram, tfidf, topic modelling) to match an input question with our target answers
+- Developed AMIs and maintained servers for the company
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
