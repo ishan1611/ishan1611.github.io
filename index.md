@@ -27,7 +27,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Work Experience
 
-### Software Engineer (Part time) - Ask My Uncle Sam (AMUS Inc.)
+### Software Engineer (Part time) - Ask My Uncle Sam ([AMUS Inc.](http://amusinc.co/))
 - Implemented a Deep Learning LSTM model using TensorFlow to build a chatbot dialog platform
 - Used different NLP similarity score functions (including word2vec, ngram, tfidf, topic modelling) to match an input question with our target answers
 - Developed AMIs and maintained servers for the company
