@@ -1,6 +1,6 @@
 ## Grad Student at Stevens Institute of Technology | Software Dev. | Data Engg. | Seeking Full-time roles
 
-### Summary
+## Summary
 
 Graduate Student at Stevens Institute of technology.
 Pursuing Master of Science in Computer Science.
@@ -25,7 +25,7 @@ You can use the [editor on GitHub](https://github.com/ishan1611/ishan1611.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Work Experience
+## Work Experience
 
 ### Software Engineer (Part time) - Ask My Uncle Sam ([AMUS Inc.](http://amusinc.co/))
 - Implemented a Deep Learning LSTM model using TensorFlow to build a chatbot dialog platform
