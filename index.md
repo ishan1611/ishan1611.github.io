@@ -21,9 +21,6 @@ Currently, I've been learning functional programming paradigm with scala, along 
 
 I've worked as the vice president of a non profit organization - The Rotaract Club of Bombay Uptown in the year 2014-15 and have been an active member of the Rotaract for three years.
 
-You can use the [editor on GitHub](https://github.com/ishan1611/ishan1611.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Work Experience
 
@@ -31,9 +28,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Implemented a Deep Learning LSTM model using TensorFlow to build a chatbot dialog platform
 - Used different NLP similarity score functions (including word2vec, ngram, tfidf, topic modelling) to match an input question with our target answers
 - Developed AMIs and maintained servers for the company
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
